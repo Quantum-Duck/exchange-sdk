@@ -1,13 +1,10 @@
 {
   "name": "crypto-exchange-sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "🛠 An SDK for building applications on top of exchanges.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "repository": "https://github.com/Quantum-Duck/exchange-sdk.git",
   "keywords": [
     "pancakeswap",
